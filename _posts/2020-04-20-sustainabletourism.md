@@ -19,7 +19,14 @@ tags:
 format: false
 ---
 
-<div class="wp-block-group alignfull has-background-background-color has-background"><div class="wp-block-group__inner-container"><div class="wp-block-jetpack-tiled-gallery alignwide is-style-circle"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row columns-1"><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](/wp-content/uploads/2020/04/cd8d0cc6-3edb-4e51-a4a5-927c3b470de3.jpg?resize=1440%2C1440)</figure></div></div><div class="tiled-gallery__row columns-3"><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](/wp-content/uploads/2020/04/img_0641.jpg?resize=2000%2C2000)</figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](/wp-content/uploads/2020/04/img_0431.jpg?resize=2000%2C2000)</figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](/wp-content/uploads/2020/04/img_0264.jpg?resize=2000%2C2000)</figure></div></div></div></div></div></div># Sustainability in Hospitality and Tourism: Big Picture Overview
+<div class="wp-block-jetpack-tiled-gallery alignwide is-style-circle">
+<img src="/wp-content/uploads/2020/04/cd8d0cc6-3edb-4e51-a4a5-927c3b470de3.jpg" alt="">
+<img src="/wp-content/uploads/2020/04/img_0641.jpg" alt="">
+<img src="/wp-content/uploads/2020/04/img_0431.jpg" alt="">
+<img src="/wp-content/uploads/2020/04/img_0264.jpg" alt="">
+</div>
+
+# Sustainability in Hospitality and Tourism: Big Picture Overview
 
 <div aria-hidden="true" class="wp-block-spacer" style="height:54px;"></div>> Sustainable - "meet\[ing\] the needs of the present without compromising the ability of future generations to meet their own needs."
 > 
@@ -31,7 +38,15 @@ After the hardships, famines, and rationing of the 1930-40s, people were ready t
 
 Even though “green, eco, organic” and others are used as buzzwords in marketing more often than ever, sustainability measures have the substance to remain viable for the foreseeable future. They just need to be done correctly and cooperatively across all sectors of tourism and hospitality.
 
-<div class="wp-block-image"><figure class="aligncenter size-large">![Growth of tourism from 1950 to 2018 UNWTO - Sustainable hospitality and tourism](/wp-content/uploads/2020/06/international-tourist-arrivals-by-world-region.png?w=1024)<figcaption>The growth of tourism from 1950 to 2018. Compiled by UNWTO</figcaption></figure></div><div aria-hidden="true" class="wp-block-spacer" style="height:100px;"></div>## Tourism Sectors
+<div class="wp-block-image">
+<figure class="aligncenter size-large">
+<img src="/wp-content/uploads/2020/06/international-tourist-arrivals-by-world-region.png" alt="Growth of tourism from 1950 to 2018 UNWTO - Sustainable hospitality and tourism">
+<figcaption>The growth of tourism from 1950 to 2018. Compiled by UNWTO</figcaption>
+</figure>
+</div>
+<div aria-hidden="true" class="wp-block-spacer" style="height:100px;"></div>
+
+## Tourism Sectors
 
 Tourism is a system made up of many interconnected sectors. These sectors all have to work together in order for a particular destination or city to be appealing to travelers. They each have their challenges in moving toward more sustainable operations and impact.
 
@@ -51,4 +66,4 @@ In order to have a mutually beneficial relationship between tourism sectors and 
 
 In order to fully adhere and engage with these guidelines, there are many converging trends in tourism that seek to address the sustainability challenges of each sector and promote the emerging solutions. Eco-tourism, voluntourism, and slow travel aim to encourage the authenticity and experience of the journey and destination. As more consumers demand environmentally friendly and socio-economically healthy practices for tourism, the better and more sustainable the industry will be as a whole.
 
-<div class="wp-block-image"><figure class="aligncenter size-large">[![Rails to Trails ad for Great Plains Ecotourism Coalition - Sustainable Hospitality and Tourism](/wp-content/uploads/2020/06/untitled-drawing.png?w=768)](https://visittheprairie.com/)<figcaption>Poster ad Rails to Trails for the Great Plains Ecotourism Coalition</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://visittheprairie.com/"><img src="/wp-content/uploads/2020/06/untitled-drawing.png" alt="Rails to Trails ad for Great Plains Ecotourism Coalition - Sustainable Hospitality and Tourism"></a><figcaption>Poster ad Rails to Trails for the Great Plains Ecotourism Coalition</figcaption></figure></div>

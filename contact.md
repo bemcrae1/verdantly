@@ -12,12 +12,19 @@ switch_like_status:
     - 'a:1:{i:0;N;}'
 ---
 
-Let's talk 👋 Don't hesitate to reach out with the contact information below, or send a message using the form.
+<p>Let&#8217;s talk &#128075; Don&#8217;t hesitate to reach out with the contact information below, or send a message using the form.</p>
 
-<div aria-hidden="true" class="wp-block-spacer desktop-only" style="height:32px;"></div>
-<div class="wp-block-columns alignwide has-2-columns"><div class="wp-block-column">## Get in Touch
+<div aria-hidden="true" class="wp-block-spacer" style="height:32px;"></div>
 
-
-<div class="wp-block-jetpack-contact-info"><div class="wp-block-jetpack-email"><bon@verdantly.org></div></div></div><div class="wp-block-column">## Send Us a Message
-
-</div></div>
+<div class="wp-block-columns alignwide has-2-columns">
+  <div class="wp-block-column">
+    <h2>Get in Touch</h2>
+    <div class="wp-block-jetpack-contact-info">
+      <p><a href="mailto:bon@verdantly.org">bon@verdantly.org</a></p>
+    </div>
+  </div>
+  <div class="wp-block-column">
+    <h2>Send Us a Message</h2>
+    <p>Use the email address above to get in touch &#8212; we&#8217;d love to hear from you.</p>
+  </div>
+</div>
