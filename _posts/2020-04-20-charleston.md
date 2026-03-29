@@ -32,7 +32,7 @@ Charleston, South Carolina is arguably one of the top travel and tourism destina
 
 Sustainability initiatives in Charleston are growing among individual residents and neighborhoods, city policy and a handful of private businesses and nonprofits. Recently, local governments passed regulations regarding [single-use plastics](https://www.charleston-sc.gov/DocumentCenter/View/24910/Printable-Single-Use-Plastic-Regulations-Flyer), implemented a [bike share program,](https://charlestonbikeshare.com/) and improving infrastructure and responsible development are always part of the public discourse.
 
-However, there is no central leadership in the hospitality and tourism sector to push for greater sustainable and eco-friendly policies. This comes down to individual business owners and managers to do the research, develop their best practices, and try to follow any applicable guidelines set by international organizations such as [Green Globe](https://greenglobe.com/#). Travellers can have a tough time finding the places that are mindful in their actions.
+However, there is no central leadership in the hospitality and tourism sector to push for greater sustainable and eco-friendly policies. This comes down to individual business owners and managers to do the research, develop their best practices, and try to follow any applicable guidelines set by international organizations such as [Green Globe](https://greenglobe.com/#). Travelers can have a tough time finding the places that are mindful in their actions.
 
 Below are recommendations on businesses that follow some or all of the tenets of sustainability in their operations.
 

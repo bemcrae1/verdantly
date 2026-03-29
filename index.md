@@ -65,7 +65,7 @@ jabber_published:
     <div class="wp-block-columns alignwide">
       <div class="wp-block-column">
         <h4>About Me</h4>
-        <p>Bonnie is an avid travel with years of experience working in the hospitality industry.</p>
+        <p>Bonnie is an avid traveler with years of experience working in the hospitality industry.</p>
         <p><a href="/about.html">More About Me</a></p>
       </div>
       <div class="wp-block-column">

@@ -22,7 +22,7 @@ switch_like_status:
 
 <h2>Sustainable Travel Itineraries</h2>
 
-<p>These suggested travel itineraries are put together with eco-friendly accommodations, transportation, practices, and activities in mind. Some destinations I have actually been and others I am determined to visit in the future and I will update when I do. Not all features of the itinerary are strictly sustainable, but offer steps and ideas towards greater stewardship of the communities and environments that we visit.</p>
+<p>These suggested travel itineraries are put together with eco-friendly accommodations, transportation, practices, and activities in mind. Some destinations I have actually been and others I am determined to visit in the future and I will update when I do. Not all features of the itinerary are strictly sustainable, but they offer steps and ideas towards greater stewardship of the communities and environments that we visit.</p>
 
 <div aria-hidden="true" class="wp-block-spacer" style="height:45px;"></div>
 
